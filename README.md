@@ -12,4 +12,5 @@ Need a tutorial on how to use the app? Then watch this [YouTube video](https://y
 
 Looking for information on the scripts? Consult the wiki of the NLML github repository!
 
-NLML WIKI
+[NLML WIKI](https://github.com/mikojeske/NLML/wiki/)
+
